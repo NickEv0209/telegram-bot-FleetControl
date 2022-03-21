@@ -1,0 +1,22 @@
+{
+  "name": "telegabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.10.0",
+    "mysql": "^2.18.1",
+    "node-telegram-bot-api": "^0.56.0",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.5.1",
+    "telegraf": "^4.7.0",
+    "telegram-test-api": "^4.1.3"
+  }
+}
